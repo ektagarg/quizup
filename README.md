@@ -5,7 +5,7 @@
 3. A user can answer a quiz only once. Correct answer gives them 10 points and wrong answer gives them -5 points
 4. Only admin can create quizzes
 
-## Setup and Run:##
+## Setup and Run: ##
 ###### Docker setup ######
 Run Dockerfile
 1. docker build . -t quizup
